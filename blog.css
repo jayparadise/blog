@@ -1,0 +1,45 @@
+
+.left {
+   width: 50%;
+   position: absolute;
+   left: 0px;
+   height: 100%;
+}
+
+.right {
+   width: 50%;
+   position: absolute;
+   right: 0px;
+   height: 100%;
+   color: white;
+   background: 
+        linear-gradient(left, rgba(33,53,18,.3) 0%,rgba(38,88,19,.4) 30%,rgba(73,91,9,.3) 74%,rgba(24,43,4,.3) 100%),
+        #000;
+  
+    background: 
+        linear-gradient(to left, rgba(33,53,18,.3) 0%,rgba(38,88,19,.4) 30%,rgba(73,91,9,.3) 74%,rgba(24,43,4,.3) 100%),
+        #000;
+}
+
+.post {
+	margin: 25px 100px;
+}
+
+.right h1 {
+	text-align: center;
+	font-size: 48px;
+}
+
+p {
+	text-indent: 36px;
+}
+
+#suicide {
+	color: red;
+	font-weight: bold;
+}
+
+#king {
+	color: rgba(60, 89, 42, 1);
+	font-weight: bold;
+}

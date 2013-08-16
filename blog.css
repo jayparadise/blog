@@ -8,14 +8,12 @@ html, body {
    width: 50%;
    position: absolute;
    left: 0;
-   height: 100%;
 }
 
 .right {
    width: 50%;
    position: absolute;
    right: 0;
-   height: 100%;
    color: white;
    background: 
         linear-gradient(left, rgba(33,53,18,.3) 0%,rgba(38,88,19,.4) 30%,rgba(73,91,9,.3) 74%,rgba(24,43,4,.3) 100%),
